@@ -229,7 +229,7 @@ Celebrating the couple's silver wedding anniversary.
     <th> Role </th>
 </tr>
 <tr>
-    <td><img src="static/ChatGPT Image Dec 2, 2025, 09_36_17 PM" width="100" height="100"> </td>
+    <td><img src="static/Uploading image.png" width="100" height="100"> </td>
     <td><strong>Aguado, Claire M. </strong> <br/>
     <td>Project Leader/System Architect</td>
 </tr>
